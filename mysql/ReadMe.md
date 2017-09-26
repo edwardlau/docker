@@ -1,7 +1,6 @@
+# MySQL Server  Docker Images By Alpine Linux
 
-# MySQL Server Docker Images By Alpine Linux
-
-     MySQL 5.7.19 Source Compiled in Alpine 3.6.2 
+     MySQL 5.7.19 Source Code Compiled in Alpine 3.6.2 
 
 # How to Use the MySQL Images
 
@@ -189,14 +188,5 @@ These Docker images are optimized for size, which means that we have reduced the
     /usr/bin/mysqldump
     /usr/sbin/mysqld
 ```
-
-# Supported Docker Versions
-
-These images are created by the MySQL team for use on the latest version of Docker. Support for older versions (down to 1.0) is provided on a best-effort basis, but we strongly recommend running on the most recent version, since that is assumed for parts of the documentation above.
-
-# User Feedback
-
-We welcome your feedback! For general comments or discussion, please drop us a line in the Comments section below. For bugs and issues, please submit a bug report at http://bugs.mysql.com under the category "MySQL Package Repos and Docker Images".
-
 
 
